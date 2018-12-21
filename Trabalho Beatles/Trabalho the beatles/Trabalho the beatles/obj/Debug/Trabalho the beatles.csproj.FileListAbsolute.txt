@@ -1,0 +1,33 @@
+C:\Users\User\Desktop\Trabalho the beatles\Trabalho the beatles\bin\Debug\Trabalho the beatles.exe.config
+C:\Users\User\Desktop\Trabalho the beatles\Trabalho the beatles\bin\Debug\Trabalho the beatles.exe
+C:\Users\User\Desktop\Trabalho the beatles\Trabalho the beatles\bin\Debug\Trabalho the beatles.pdb
+C:\Users\User\Desktop\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho_the_beatles.Properties.Resources.resources
+C:\Users\User\Desktop\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.exe
+C:\Users\User\Desktop\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.pdb
+C:\Users\User\Desktop\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho_the_beatles.Beatles.resources
+C:\Users\User\Desktop\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\bin\Debug\Trabalho the beatles.exe.config
+C:\Users\User\Desktop\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.exe
+C:\Users\User\Desktop\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.pdb
+D:\Backupzin\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\bin\Debug\Trabalho the beatles.exe.config
+D:\Backupzin\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.exe
+D:\Backupzin\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.pdb
+D:\Backupzin\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\bin\Debug\Trabalho the beatles.exe
+D:\Backupzin\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\bin\Debug\Trabalho the beatles.pdb
+D:\Backupzin\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.csprojResolveAssemblyReference.cache
+D:\Backupzin\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho_the_beatles.Beatles.resources
+D:\Backupzin\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho_the_beatles.Properties.Resources.resources
+D:\Backupzin\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.csproj.GenerateResource.Cache
+J:\Lembrar de arrumar\Backupzin\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\bin\Debug\Trabalho the beatles.exe.config
+J:\Lembrar de arrumar\Backupzin\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.exe
+J:\Lembrar de arrumar\Backupzin\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.pdb
+D:\Trabalhos para apresentar\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\bin\Debug\Trabalho the beatles.exe.config
+D:\Trabalhos para apresentar\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.exe
+D:\Trabalhos para apresentar\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.pdb
+D:\Trabalhos para apresentar\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\bin\Debug\Trabalho the beatles.exe
+D:\Trabalhos para apresentar\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\bin\Debug\Trabalho the beatles.pdb
+D:\Trabalhos para apresentar\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.csprojResolveAssemblyReference.cache
+D:\Trabalhos para apresentar\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho_the_beatles.Beatles.resources
+D:\Trabalhos para apresentar\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho_the_beatles.Properties.Resources.resources
+D:\Trabalhos para apresentar\Trabalho Beatles\Trabalho the beatles\Trabalho the beatles\obj\Debug\Trabalho the beatles.csproj.GenerateResource.Cache
